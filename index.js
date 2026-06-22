@@ -1,1 +1,1 @@
-jjf
+print("Hello, World!")
